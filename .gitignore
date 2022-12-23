@@ -1,0 +1,13 @@
+backup/*
+config/*
+deaths/*
+dynmap/*
+emotes/*
+g4mespeed/*
+libraries/*
+logs/*
+mods/*
+versions/*
+world
+.fabric
+crash-reports
